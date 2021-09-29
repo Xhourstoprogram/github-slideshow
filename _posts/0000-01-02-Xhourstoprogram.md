@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my new files, feel free to give your opinion
+welcome to my new account
 Use the left arrow to go back!
